@@ -11,13 +11,13 @@ Users should be able to:
 
 ### Screenshot
 
-[Screenshot 2022-10-31 at 15-04-25 Order summary component](https://user-images.githubusercontent.com/116254117/198993913-69f8460c-e445-47f7-8077-ce3b8fc411b5.png)
+![Screenshot 2022-10-31 at 15-04-25 Order summary component](https://user-images.githubusercontent.com/116254117/198993913-69f8460c-e445-47f7-8077-ce3b8fc411b5.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Th0rnike/Order-summary-component)
+- Live Site URL: [Live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
