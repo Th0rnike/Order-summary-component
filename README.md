@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/Th0rnike/Order-summary-component)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://th0rnike.github.io/Order-summary-component)
 
 ### Built with
 
